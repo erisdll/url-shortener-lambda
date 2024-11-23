@@ -1,11 +1,12 @@
-package com.erika.urlShortener;
+package com.erika.urlshortener;
 
 import lombok.AllArgsConstructor;
-import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Getter;
 import lombok.Setter;
 
 @AllArgsConstructor
+@NoArgsConstructor
 @Getter
 @Setter
 public class UrlData {
